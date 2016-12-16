@@ -28,7 +28,7 @@ $ docker run -d \
     -v /var/www/html:/srv \
     -v $HOME/Caddyfile/phphttps:/etc/Caddyfile \
     -v $HOME/.caddy:/root/.caddy \
-    ielswork/arm-caddyphp:latest
+    elswork/arm-caddyphp:latest
 ```
 
 ## Description of parameters
